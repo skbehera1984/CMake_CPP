@@ -3,5 +3,6 @@
 
 double mysqrt(double val)
 {
+
 	return sqrt(val);
 }
